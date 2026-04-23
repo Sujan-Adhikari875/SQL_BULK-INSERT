@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,country,signup_date
+1,Aarav,Sharma,aarav.sharma@example.com,-899999910,Kathmandu,Nepal,2025-01-10
+2,Sujan,Adhikari,sujan.adhikari@example.com,-899999911,Pokhara,Nepal,2025-01-15
+3,Nima,Tamang,nima.tamang@example.com,-899999912,Seoul,South Korea,2025-02-02
+4,Priya,Khadka,priya.khadka@example.com,-899999913,Lalitpur,Nepal,2025-02-12
+5,Rajeev,Bista,rajeev.bista@example.com,-899999914,Busan,South Korea,2025-03-01
+6,Anisha,Gurung,anisha.gurung@example.com,-899999915,Biratnagar,Nepal,2025-03-10
+7,Mina,Lee,mina.lee@example.com,-935,Incheon,South Korea,2025-03-22
+8,Suman,Rai,suman.rai@example.com,-899999917,Chitwan,Nepal,2025-04-05
+9,Jiho,Kim,jiho.kim@example.com,-937,Daegu,South Korea,2025-04-18
+10,Kiran,Thapa,kiran.thapa@example.com,-899999919,Butwal,Nepal,2025-04-25

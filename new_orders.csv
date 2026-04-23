@@ -1,0 +1,21 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,total_amount,status
+1001,1,2025-05-03,Laptop Sleeve,Accessories,2,25.00,50.00,Delivered
+1002,2,2025-05-05,Wireless Mouse,Electronics,1,18.50,18.50,Delivered
+1003,3,2025-05-07,Keyboard,Electronics,1,32.00,32.00,Shipped
+1004,4,2025-05-09,USB-C Hub,Electronics,1,41.75,41.75,Processing
+1005,5,2025-05-11,Notebook Pack,Stationery,3,6.50,19.50,Delivered
+1006,6,2025-05-13,Water Bottle,Lifestyle,2,12.00,24.00,Cancelled
+1007,7,2025-05-15,Power Bank,Electronics,1,29.99,29.99,Delivered
+1008,8,2025-05-17,Desk Lamp,Home Office,1,24.50,24.50,Shipped
+1009,9,2025-05-19,Backpack,Bags,1,39.00,39.00,Delivered
+1010,10,2025-05-21,Monitor Stand,Home Office,1,45.25,45.25,Processing
+1011,1,2025-05-23,Laptop Sleeve,Accessories,2,25.00,50.00,Delivered
+1012,2,2025-05-25,Wireless Mouse,Electronics,1,18.50,18.50,Delivered
+1013,3,2025-05-27,Keyboard,Electronics,1,32.00,32.00,Shipped
+1014,4,2025-05-29,USB-C Hub,Electronics,1,41.75,41.75,Processing
+1015,5,2025-05-31,Notebook Pack,Stationery,3,6.50,19.50,Delivered
+1016,6,2025-06-02,Water Bottle,Lifestyle,2,12.00,24.00,Cancelled
+1017,7,2025-06-04,Power Bank,Electronics,1,29.99,29.99,Delivered
+1018,8,2025-06-06,Desk Lamp,Home Office,1,24.50,24.50,Shipped
+1019,9,2025-06-08,Backpack,Bags,1,39.00,39.00,Delivered
+1020,10,2025-06-10,Monitor Stand,Home Office,1,45.25,45.25,Processing
