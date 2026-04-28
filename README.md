@@ -13,8 +13,8 @@ It is useful for practicing:
 # Files Required
 Make sure you have these CSV files in your system:
 
-- `customers.csv`
-- `orders.csv`
+- 'customers.csv'
+- 'orders.csv'
 
 Expected file location:
 
@@ -24,7 +24,7 @@ C:\SQL DATA\orders.csv
 ## Database and Tables
 
 ## Database
-- `practicedata`
+- 'practicedata'
 
 ### Tables
 1. ## Customers
