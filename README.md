@@ -16,7 +16,7 @@ Make sure you have these CSV files in your system:
 - 'customers.csv'
 - 'orders.csv'
 
-Expected file location:
+# file location in my device:
 
 C:\SQL DATA\customers.csv  
 C:\SQL DATA\orders.csv
